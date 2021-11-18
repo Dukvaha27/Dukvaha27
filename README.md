@@ -13,7 +13,7 @@ ____
 
 [код](https://github.com/Dukvaha27/cars_rent)
 
-#### командный проект про заказа еды и продуктов
+#### командный проект DELIVERY
 
 [код](https://github.com/Dukvaha27/delivery)
 <!--
